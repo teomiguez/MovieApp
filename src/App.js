@@ -46,7 +46,7 @@ function App() {
 
       {/* -- Pie de página -- */}
       <footer className="footer">
-          &copy; Sitio web desarrollado por
+          Master en React &copy; Sitio web desarrollado por
           <a href="https://www.linkedin.com/in/teo-miguez-de-araujo-9332b9167/"> teomiguez </a>
       </footer>
     </div>
